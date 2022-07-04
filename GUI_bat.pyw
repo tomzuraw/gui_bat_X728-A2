@@ -34,8 +34,8 @@ v = '0.1'
 program_name = 'Battery/Shutdown'
 ver = f'{program_name} {v}'
 ver_about = f'Copyright (c) {year}. Tomasz Zurawski\n' \
-            'tomasz.zurawski@siemens.com'
-ver_about_comp = 'Siemens Grand Prairie USA'
+            '19kemot@gmail.com'
+ver_about_comp = 'Raspberry Pi'
 
 win_bat = tk.Tk()
 win_bat.title(ver)

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="pdf_merge_def_ch_dir.py" type="AUTO_DETECTED" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

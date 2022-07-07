@@ -26,6 +26,7 @@
         <option value="RPi.GPIO" />
         <option value="RPi.*" />
         <option value="GUI_slaves.RPi" />
+        <option value="smbus" />
       </list>
     </option>
   </inspection_tool>
